@@ -1,5 +1,5 @@
 # SegNetFromScratch
-Capstone project of Fast.ai course v3 https://course.fast.ai/
+Capstone project of fast.ai course v3 https://course.fast.ai/
 
 ## Step 1 
 Recreate fastai Unet implementation on CamVid dataset
